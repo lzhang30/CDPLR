@@ -22,6 +22,6 @@ Have fun!
 
 **Acknowledgement**
 
-A part of our code is from [WSL4MIS](https://github.com/HiLab-git/WSL4MIS) and [DMPLS](https://arxiv.org/abs/2203.02106)
+A part of our code is from [WSL4MIS](https://github.com/HiLab-git/WSL4MIS) and [PyMIC](https://github.com/HiLab-git/PyMIC)
 
 I am grateful to **Dr. Zheng Zhou** for the technical support.
