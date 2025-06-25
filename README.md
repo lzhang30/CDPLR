@@ -16,7 +16,7 @@ python train_dist_unce.py --gpu 4 --labeled_ratio 8 --check 500 --early_stop 100
 
 python val_ours.py
 ```
-The result of your experiment may be shown in `output_8.csv`
+The result of your experiment should be shown in `output_8.csv`
 
 Have fun!
 
