@@ -20,5 +20,8 @@ The result of your experiment may be shown in `output_8.csv`
 
 Have fun!
 
-Acknowledgement
+*Acknowledgement*
+
 A part of our code is from [WSL4MIS](https://github.com/HiLab-git/WSL4MIS) and [DMPLS](https://arxiv.org/abs/2203.02106)
+
+I am grateful to *Dr. Zhengzhou* for the technical support.
